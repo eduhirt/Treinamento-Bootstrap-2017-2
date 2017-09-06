@@ -1,0 +1,82 @@
+@charset "UTF-8";
+
+body, html{
+	width: 100%;
+	height: 100%;
+}
+
+.navbar-light{
+	background-color: rgba(0,0,0,0.3);
+}
+
+nav img{
+	height: 30px;
+	padding-left: 150px;
+}
+
+ul{
+	margin-left: 40%;
+}
+
+.nav-link{
+	color: rgba(255,255,255,0.8) !important;
+}
+
+.navbar-nav{
+	color: white !important;
+}
+
+header{
+	background-image: url("../Imagens/header-fundo.jpg");
+	width: 100%;
+	min-height: 100%;
+  	background-size: cover;
+  	background-repeat: no-repeat;
+  	position: relative;
+
+}
+
+header img{
+	display: block;
+	margin:auto;
+	padding-top: 16%;
+}
+
+.servicos{
+	text-align: center;
+}
+
+.servicos h2{
+	padding-top: 50px;
+	font-size: 
+}
+
+.servicos img{
+	height: 300px;
+	display: block;
+	margin:auto;
+}
+
+.servicos p{
+	padding-top: 10px;
+}
+
+#apps{
+	background-color: #444c4f;
+	color: white;
+}
+
+#websites{
+	background-color: #303030;
+	color: white;
+}
+
+#softwares{
+	background-color: #f5f5f5;
+	
+}
+
+footer{
+	height: 300px;
+	background-color: #232a32;
+}
